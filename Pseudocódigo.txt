@@ -6,5 +6,5 @@ Início
    Escrever("Introduza um número inteiro:");
    Ler(b);
    soma<---- a + b;
-   Escrever("O resultado da soma", a," +," b," =", soma);
+   Escrever("O resultado da soma", soma);
 Fim.
